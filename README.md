@@ -1,7 +1,7 @@
 # UI_DESIGN
 UI Connectivity Repository 
 [Main]
-https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THANATIP?node-id=603-108&p=f&t=lfWRFUysBCKw6pwa-0
+https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THANATIP?node-id=603-108&t=lfWRFUysBCKw6pwa-1
 
 
 Sample E-commerce :  https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THAWIN?node-id=0-1&t=yFY6ytG13uc0rXlb-1
