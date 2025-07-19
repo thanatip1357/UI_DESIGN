@@ -12,3 +12,11 @@ Sample E-commerce :  https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWo
 FUNITURE Mobile App : https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THAWIN?node-id=30-2&t=yFY6ytG13uc0rXlb-1
 ![image](https://github.com/user-attachments/assets/80940041-9dac-49af-ac10-a724befc73ce)
 
+
+https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THANATIP?node-id=98-3602
+
+
+https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THANATIP?node-id=544-2
+
+
+https://www.figma.com/design/5ugdJFdnWzzu4eb5jLcAVi/ClassWork_All_THANATIP?node-id=603-108
